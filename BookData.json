@@ -1,0 +1,26 @@
+[
+    {
+        "image":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/04D09DBE-AA26-4F7E-A79C-A728C9CE1CBE.png",
+        "title":"The Immortalists",
+        "artist":"Chloe Benjamin",
+        "intro":"If you were told the date of your death, how would it shape your...",
+        "ratebar":"2",
+        "rate":"50% completed"
+    },
+    {
+        "image":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/D867C261-E832-43C2-8ACE-9A07127C618E.png",
+        "title":"Grist Mill Road",
+        "artist":"Christopher J.",
+        "intro":"Twenty-six years ago Hannah had her eye shot out.Now she wants...",
+        "ratebar":"0",
+        "rate":"START READ"
+    },
+    {
+        "image":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/416C5EA2-EA37-4DB0-8477-D7406FD66540.png",
+        "title":"Street Art Activity Book",
+        "artist":"Mitchell Beazley",
+        "intro":"Street art is colorful, vibrant, diverse and exciting.Now, you can",
+        "ratebar":"1",
+        "rate":"100% completed"
+    }
+]
