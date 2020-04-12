@@ -18,7 +18,7 @@ export default function App(){
           options={{headerShown:false}}
           />
           <Stack.Screen name="Drawer" component={Drawer} 
-          options={{title:null}}s
+          options={{title:null}}
           
           />
         </Stack.Navigator>
